@@ -100,7 +100,3 @@ The application currently provides full CRUD functionality for **Books**:
 *   Add more complex business logic (e.g., book borrowing/returning workflows, fine calculation).
 *   Improve error handling and user feedback.
 *   Write comprehensive unit and integration tests.
-
----
-
-This `README.md` provides a good starting point for understanding and running your project.
